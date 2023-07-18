@@ -5,7 +5,7 @@
 
 ## Background
 
-In this work, I created Python scripts for analyzing the financial records of PyBank and the election result of PyPoll.
+In this work, I have created Python scripts for analyzing the financial records of PyBank and the election result of PyPoll.
 
 
 ## PyBank
